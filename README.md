@@ -1,3 +1,7 @@
+# Migrated
+
+Moved to: https://codeberg.org/newteq/sample-kafka-pub-sub
+
 # Getting Started
 
 > It is recommended to use a linux distro for running this code. You can do this on Windows 10 through the WSL (Windows Subsystem for Linux).
